@@ -1,0 +1,24 @@
+{
+  "name": "sibhash-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.26.2",
+    "joi": "^11.1.1",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cookie": "^1.0.0",
+    "koa-cookie-parser": "^1.0.0",
+    "koa-joi-validate": "^0.5.1",
+    "koa-joi-validator": "^4.0.0",
+    "koa-passport": "^4.0.1",
+    "koa-router": "^7.2.1",
+    "koa-session": "^5.5.0",
+    "koa2-cors": "^2.0.3",
+    "mongoose": "^4.12.0",
+    "mongoose-auto-increment": "^5.0.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
